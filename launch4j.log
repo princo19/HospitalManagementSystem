@@ -1,0 +1,14 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Prince Agarwal\Desktop\HMS\hms.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Prince Agarwal\Desktop\HMS\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	jre
+Check launcher:	C:\Users\Prince Agarwal\Desktop\HMS\jre\bin\javaw.exe (OK)
+Launcher:	C:\Users\Prince Agarwal\Desktop\HMS\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Prince Agarwal\Desktop\HMS\hms.exe"
+Args length:	50/32768 chars
+Exit code:	0
